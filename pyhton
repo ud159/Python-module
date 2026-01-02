@@ -30,3 +30,4 @@ t.down()
 draw_branch(100, t)
 
 screen.mainloop()
+print("Hello World")
